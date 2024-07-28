@@ -5,6 +5,7 @@ Such as [...]\Steam\steamapps\common\Valheim
 
 After you unzipped everything accordingly, your folder should look something like this ::
 
+```
 \_ Valheim\
     \_ BepInEx\
     \_ doorstop_libs\
@@ -18,6 +19,8 @@ After you unzipped everything accordingly, your folder should look something lik
     \_ UnityPlayer.dll
     \_ valheim.exe
     \_ winhttp.dll
+```
+
 
 Then run the " Mod_Update_Valheim.bat " script.
 
