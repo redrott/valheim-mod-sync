@@ -21,7 +21,7 @@ After you unzipped everything accordingly, your folder should look something lik
     \_ valheim.exe
     \_ winhttp.dll
 ```
-![Example]([https://octodex.github.com/images/bannekat.png](https://files.catbox.moe/cmmrar.png)
+![Example]([https://octodex.github.com/images/bannekat.png](https://files.catbox.moe/cmmrar.png))
 
 
 
