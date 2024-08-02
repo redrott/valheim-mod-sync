@@ -1,5 +1,6 @@
-Henlo.
-ADD THE CONTENTS OF THIS ZIP FILE TO YOUR ~~LETHAL COMPANY~~ VALHEIM STEAM DIRECTORY
+## DO NOT CLONE CODE. USE [PREPACKAGED RELEASE](https://github.com/redrott/valheim-mod-sync/releases) INSTEAD AND UPDATE VIA MOD UPDATER IF NECCESARY.
+
+ADD THE CONTENTS OF THIS ZIP FILE TO YOUR VALHEIM STEAM DIRECTORY
 
 Such as [...]\Steam\steamapps\common\Valheim
 
@@ -20,6 +21,8 @@ After you unzipped everything accordingly, your folder should look something lik
     \_ valheim.exe
     \_ winhttp.dll
 ```
+
+![Example](https://files.catbox.moe/cmmrar.png)
 
 
 Then run the " Mod_Update_Valheim.bat " script.
