@@ -21,6 +21,8 @@ After you unzipped everything accordingly, your folder should look something lik
     \_ valheim.exe
     \_ winhttp.dll
 ```
+![Example]([https://octodex.github.com/images/bannekat.png](https://files.catbox.moe/cmmrar.png)
+
 
 
 Then run the " Mod_Update_Valheim.bat " script.
